@@ -1,0 +1,8 @@
+{"@t":"2024-08-29T11:00:23.4127294Z","@mt":"Now listening on: {address}","address":"http://localhost:5135","EventId":{"Id":14,"Name":"ListeningOnAddress"},"SourceContext":"Microsoft.Hosting.Lifetime","Application":"InventoryService"}
+{"@t":"2024-08-29T11:00:23.4427265Z","@mt":"Application started. Press Ctrl+C to shut down.","SourceContext":"Microsoft.Hosting.Lifetime","Application":"InventoryService"}
+{"@t":"2024-08-29T11:00:23.4438640Z","@mt":"Hosting environment: {EnvName}","EnvName":"Development","SourceContext":"Microsoft.Hosting.Lifetime","Application":"InventoryService"}
+{"@t":"2024-08-29T11:00:23.4449926Z","@mt":"Content root path: {ContentRoot}","ContentRoot":"D:\\VishnuR\\inventory-service\\src\\InventoryService.API","SourceContext":"Microsoft.Hosting.Lifetime","Application":"InventoryService"}
+{"@t":"2024-08-29T11:02:53.1721370Z","@mt":"Now listening on: {address}","address":"http://localhost:5135","EventId":{"Id":14,"Name":"ListeningOnAddress"},"SourceContext":"Microsoft.Hosting.Lifetime","Application":"InventoryService"}
+{"@t":"2024-08-29T11:02:53.1961878Z","@mt":"Application started. Press Ctrl+C to shut down.","SourceContext":"Microsoft.Hosting.Lifetime","Application":"InventoryService"}
+{"@t":"2024-08-29T11:02:53.1975419Z","@mt":"Hosting environment: {EnvName}","EnvName":"Development","SourceContext":"Microsoft.Hosting.Lifetime","Application":"InventoryService"}
+{"@t":"2024-08-29T11:02:53.1988710Z","@mt":"Content root path: {ContentRoot}","ContentRoot":"D:\\VishnuR\\inventory-service\\src\\InventoryService.API","SourceContext":"Microsoft.Hosting.Lifetime","Application":"InventoryService"}
